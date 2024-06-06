@@ -1,0 +1,11 @@
+  .main{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+
+} 
+.products{
+  margin-top: 10%;
+  /* display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, auto)); */
+}
